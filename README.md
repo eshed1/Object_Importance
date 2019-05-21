@@ -2,22 +2,23 @@
 
 Data and code for 
 
-@article{ohnbar_PR17,
+@article{ohnbar_importance_PR,
     Author = {Eshed Ohn-Bar and Mohan M. Trivedi},
     Title = {Are All Objects Equal? Deep Spatio-Temporal Importance Prediction in Driving Videos},
     Journal = {Pattern Recognition},
     Year = {2017}
 }
 
-@inproceedings{ohnbar_ICPR16,
+@inproceedings{ohnbar_importance,
 title={What Makes an On-road Object Important?},
 author={E. Ohn-Bar and M. M. Trivedi},
 booktitle={IEEE Intl. Conf. Pattern Recognition}, 
 year={2016}
 }
+(best paper award finalist)
 
-Thank you for your interest. If any questions, please don't hesitate to contact me at
-eshedob@gmail.com
+
+Thank you for your interest and I hope this study is useful to you in some way. If any questions, please don't hesitate to contact me
 2/20/2017
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -30,6 +31,8 @@ Content
 - kitti: sequences from the raw benchmark used
 - devkit_tracking: tracking dataset, some is used for improved annotations
 - liblinear-weights-1.96: liblinear (all rights reserved to them)
+- Note: some data files are too large for github, to ensure full reproducibility you may download into the 'data' folder the following
+https://drive.google.com/file/d/1oWLGXV2CLC-Xji3CGJIRvNu7gkZyjsrY/view?usp=sharing
 --------------------------
 
 Steps
@@ -46,4 +49,6 @@ Both are used because there are some additional object annotations on the tracki
 The data can be loaded using the provided mat files without the KITTI data,
 but for visualization and understanding the processing/filtering I recommend downloading the associated KITTI data.
 --------------------------
+
+
 
