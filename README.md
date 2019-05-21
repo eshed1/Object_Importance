@@ -19,7 +19,7 @@ year={2016}
 
 
 Thank you for your interest and I hope this study is useful to you in some way.
-The code was available on my website for the last coupld of years, but I've received requests to put it on github.
+The code was available on my website for the last couple of years, but I've received requests to put it on github.
 If any questions, please don't hesitate to contact me
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
