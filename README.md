@@ -42,12 +42,9 @@ attribute-based importance prediction, and results visualization.
 
 In order to run it, you will need to set some dependencies in 'setup_globals.m'
 
-To visualize and work with the data, you will also need to download KITTI raw benchmark.
-You can see the required raw sequences in 'kitti' folder.  
-You also need the tracking training benchmark, placed in devkit_tracking. 
-Both are used because there are some additional object annotations on the tracking benchmark which we incorporate.
-The data can be loaded using the provided mat files without the KITTI data,
-but for visualization and understanding the processing/filtering I recommend downloading the associated KITTI data.
+To visualize and work with the data, you will also need to download KITTI raw benchmark. You can see the required raw sequences in 'kitti' folder.  
+You also need the tracking training benchmark, placed in devkit_tracking. Both are used because there are some additional object annotations on the tracking benchmark which we incorporate.
+The data can be loaded using the provided mat files without the KITTI data, but for visualization and understanding the processing/filtering I recommend downloading the associated KITTI data.
 --------------------------
 
 
